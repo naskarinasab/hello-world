@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository! 
+Hi everyone! I am currently a university student working towards a Bachelors in Computer Science.
